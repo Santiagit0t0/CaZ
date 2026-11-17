@@ -1,0 +1,47 @@
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: #333333;
+}
+
+p {
+    font-size: 16px;
+    color: black;
+}
+
+a {
+    color: blue;
+}
+
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: lightblue;
+}
+
+div {
+    background-color: white;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 15px;
+}
